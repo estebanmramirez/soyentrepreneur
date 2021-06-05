@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Welcome to my repository you can find several projects begining with technologies like HTML, CSS, SASS
-- 🌱 My experience have been like salesman in the technology sector. From there born the need to learn software development
+- 🔭 Welcome to my repository you can find several projects utilizing  technologies like HTML, CSS, SASS and Javascript
+- 🌱 My experience have been like salesman in the technology sector. From there born the need to learn software development.
 
 <!--
 **soyentrepreneur/soyentrepreneur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
